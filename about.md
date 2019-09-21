@@ -3,28 +3,25 @@ layout: page
 title: About
 ---
 
-<p class="message">
-  Hey there! This page is included as an example. Feel free to customize it for your own use upon downloading. Carry on!
-</p>
+## Sawasdee krub! Hello!
 
-In the novel, *The Strange Case of Dr. Jeykll and Mr. Hyde*, Mr. Poole is Dr. Jekyll's virtuous and loyal butler. Similarly, Poole is an upstanding and effective butler that helps you build Jekyll themes. It's made by [@mdo](https://twitter.com/mdo).
+![profile_pic](/assets/profile_image2.jpg) <-- rare footage of me when not sleep-deprived
 
-There are currently two themes built on Poole:
+My name is Chawin Sitawarin. I am a second-year PhD student in Computer Science
+at UC Berkeley. I am in the security group and advised by [Prof. David Wagner](https://people.eecs.berkeley.edu/~daw/).
 
-* [Hyde](http://hyde.getpoole.com)
-* [Lanyon](http://lanyon.getpoole.com)
+I am broadly interested in the intersection between machine learning and computer security (because when you add an adversary, things become more challenging and fun). Most of my current and previous works are in the domain of adversarial machine learning, particularly adversarial examples and robustness of machine learning algorithms.
 
-Learn more and contribute on [GitHub](https://github.com/poole).
+Previously, I graduated from Princeton University with a degree in Electrical Engineering in 2018. I am very fortunate to have worked with [Prof. Prateek Mittal](https://www.princeton.edu/~pmittal/), [Prof. Peter Ramadge](http://faculty.ee.princeton.edu/ramadge/doku.html), and [Prof. Alejandro Rodriguez](http://faculty.ee.princeton.edu/arodriguez/).
 
-## Setup
+### Contact and info
+- Email: chawins@berkeley.edu
+- [Google Scholar](https://scholar.google.com/citations?hl=en&authuser=1&user=AxUAEQ4AAAAJ)
+- [Resume](https://drive.google.com/file/d/1PXhq-FdNcyfeMiNp5zwlS3gf87GfNTHi/view) (potentially not updated)
+- [LinkedIn](https://www.linkedin.com/in/chawins/)
+- Office: Room 721 Soda Hall, UC Berkeley, Berkeley, CA 94709
 
-Some fun facts about the setup of this project include:
-
-* Built for [Jekyll](http://jekyllrb.com)
-* Developed on GitHub and hosted for free on [GitHub Pages](https://pages.github.com)
-* Coded with [Sublime Text 2](http://sublimetext.com), an amazing code editor
-* Designed and developed while listening to music like [Blood Bros Trilogy](https://soundcloud.com/maddecent/sets/blood-bros-series)
-
-Have questions or suggestions? Feel free to [open an issue on GitHub](https://github.com/poole/issues/new) or [ask me on Twitter](https://twitter.com/mdo).
-
-Thanks for reading!
+### Random facts
+- I am from Bangkok, Thailand.
+- My name in Thai is "ชวิน สีตวาริน"
+- I keep track and write summary for papers on adversarial examples that I have read. [link](https://github.com/chawins/Adversarial-Examples-Reading-List)
