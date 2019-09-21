@@ -5,7 +5,8 @@ title: About
 
 ## Sawasdee krub! Hello!
 
-![profile_pic](/assets/profile_image2.jpg) <-- rare footage of me when not sleep-deprived
+![profile_pic](/assets/profile_image2.jpg)
+(^ Rare footage of me when not sleep-deprived)
 
 My name is Chawin Sitawarin. I am a second-year PhD student in Computer Science
 at UC Berkeley. I am in the security group and advised by [Prof. David Wagner](https://people.eecs.berkeley.edu/~daw/).
@@ -17,6 +18,7 @@ Previously, I graduated from Princeton University with a degree in Electrical En
 ### Contact and info
 - Email: chawins@berkeley.edu
 - [Google Scholar](https://scholar.google.com/citations?hl=en&authuser=1&user=AxUAEQ4AAAAJ)
+- [Github](https://github.com/chawins)
 - [Resume](https://drive.google.com/file/d/1PXhq-FdNcyfeMiNp5zwlS3gf87GfNTHi/view) (potentially not updated)
 - [LinkedIn](https://www.linkedin.com/in/chawins/)
 - Office: Room 721 Soda Hall, UC Berkeley, Berkeley, CA 94709
