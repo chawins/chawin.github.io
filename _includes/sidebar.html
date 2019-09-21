@@ -1,4 +1,7 @@
 <div class="sidebar">
+  <div class="container">
+    <img src="/assets/uc_logo.png" alt="UC Logo">
+  </div>
   <div class="container sidebar-sticky">
     <div class="sidebar-about">
       <h1>
@@ -10,21 +13,17 @@
     </div>
 
     <nav class="sidebar-nav">
-      <a class="sidebar-nav-item{% if page.url == site.baseurl %} active{% endif %}" href="{{ '/'  | relative_url }}">Home</a>
-
-      {% comment %}
-      The code below dynamically generates a sidebar nav of pages with
-      `layout: page` in the front-matter. See readme for usage.
-      {% endcomment %}
-
-      {% assign pages_list = site.pages %}
+      <!-- {% assign pages_list = site.pages %}
       {% for node in pages_list %}
       {% if node.title != null %}
       {% if node.layout == "page" %}
       <a class="sidebar-nav-item{% if page.url == node.url %} active{% endif %}" href="{{ node.url }}">{{ node.title }}</a>
       {% endif %}
       {% endif %}
-      {% endfor %}
+      {% endfor %} -->
+      <li><a href="/">Home</a></li>
+      <li><a href="/publications">Publications</a></li>
+      <li><a href="/blogs">Blogs</a></li>
     </nav>
 
     <p>&copy; {{ site.time | date: '%Y' }}. All rights reserved.</p>
