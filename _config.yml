@@ -8,7 +8,7 @@ permalink:        pretty
 # Setup
 title:            Chawin Sitawarin
 tagline:          'INSERT TAGLINE HERE'
-description:      'INSERT DESCRIPTION HERE'
+description:      PhD Student in Computer Science at UC Berkeley
 url:              http://chawins.github.io
 baseurl:          /
 
@@ -19,7 +19,7 @@ author:
 paginate:         5
 
 # Custom vars
-version:          2.1.0
+version:          1
 
 github:
   repo:           https://github.com/chawins/chawins.github.io
