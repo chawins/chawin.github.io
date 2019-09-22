@@ -1,7 +1,6 @@
 ## Sawasdee krub! Hello!
 
 ![profile_pic](/assets/profile_image2.jpg)
-(^ Rare footage of me when not sleep-deprived)
 
 My name is Chawin Sitawarin. I am a second-year PhD student in Computer Science
 at UC Berkeley. I am in the security group and advised by [Prof. David Wagner](https://people.eecs.berkeley.edu/~daw/).
