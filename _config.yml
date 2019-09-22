@@ -9,8 +9,8 @@ permalink:        pretty
 title:            Chawin Sitawarin
 tagline:          'INSERT TAGLINE HERE'
 description:      PhD Student in Computer Science at UC Berkeley
-url:              http://chawins.github.io
-baseurl:          /home/
+url:              https://chawins.github.io
+baseurl:          /
 
 author:
   name:           'Chawin Sitawarin'
