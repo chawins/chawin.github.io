@@ -1,8 +1,3 @@
----
-layout: page
-title: Home
----
-
 ## Sawasdee krub! Hello!
 
 ![profile_pic](/assets/profile_image2.jpg)
