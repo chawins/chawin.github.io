@@ -6,9 +6,8 @@ highlighter:      rouge
 permalink:        pretty
 
 # Setup
-title:            Chawin Sitawarin
-tagline:          'INSERT TAGLINE HERE'
-description:      PhD Student in Computer Science at UC Berkeley
+title:            Chawin's Homepage
+description:      Homepage of Chawin Sitawarin
 url:              https://chawins.github.io
 baseurl:          /
 
@@ -23,3 +22,6 @@ version:          1
 
 github:
   repo:           https://github.com/chawins/chawins.github.io
+
+plugins:
+  - jekyll-seo-tag
