@@ -12,7 +12,7 @@ Please visit my [Google Scholar](https://scholar.google.com/citations?hl=en&auth
 - V. Sehwag, _C. Sitawarin_, A. N. Bhagoji, A. Mosenia, M. Chiang, and P. Mittal, **Not all pixels are born equal: An analysis of evasion attacks under locality constraints,** CCS 2018 (poster). [[paper]](https://dl.acm.org/citation.cfm?id=3278515)
 - _C. Sitawarin_, A. N. Bhagoji, A. Mosenia, M. Chiang, and P. Mittal, **DARTS: Deceiving Autonomous Cars with Toxic Signs,** 2018 (preprint). [[paper]](https://arxiv.org/abs/1802.06430) [[code]](https://github.com/inspire-group/advml-traffic-sign)
 - _C. Sitawarin_, A. N. Bhagoji, A. Mosenia, and P. Mittal, **Rogue Signs: Deceiving Traffic Sign Recognition with Malicious Ads and Logos,** Deep Learning and Security Workshop 2018 (co-located with IEEE S&P). [[paper]](https://arxiv.org/abs/1801.02780)
-- A. N. Bhagoji, D. Cullina, _C. Sitawarin_, and P. Mittal, “Enhancing Robustness of Machine Learning System vis Data Transformations,” CISS 2018 (invited). [[paper]](https://arxiv.org/abs/1704.02654) [[code]](https://github.com/inspire-group/ml_defense)
+- A. N. Bhagoji, D. Cullina, _C. Sitawarin_, and P. Mittal, **Enhancing Robustness of Machine Learning System vis Data Transformations,** CISS 2018 (invited). [[paper]](https://arxiv.org/abs/1704.02654) [[code]](https://github.com/inspire-group/ml_defense)
 
 ## Photonics
 - _C. Sitawarin_, Z. Lin, W. Jin, and A. W. Rodriguez, **Inverse designed photonic fibers and metasurfaces for nonlinear frequency conversion,** Photonics Research 2018 (invited). [[paper]](https://www.osapublishing.org/prj/abstract.cfm?uri=prj-6-5-B82)
