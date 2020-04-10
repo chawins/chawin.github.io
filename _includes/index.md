@@ -9,7 +9,7 @@ I am broadly interested in the intersection between machine learning and compute
 Previously, I graduated from Princeton University in 2018 where I was very fortunate to have worked with [Prof. Prateek Mittal](https://www.princeton.edu/~pmittal/), [Prof. Peter Ramadge](http://faculty.ee.princeton.edu/ramadge/doku.html), and [Prof. Alejandro Rodriguez](http://faculty.ee.princeton.edu/arodriguez/).
 
 ### Contact info
-- Email: chawins@berkeley.edu
+- Email: chawins@eecs.berkeley.edu
 - [Google Scholar](https://scholar.google.com/citations?hl=en&authuser=1&user=AxUAEQ4AAAAJ)
 - [Github](https://github.com/chawins)
 - [Resume](https://drive.google.com/file/d/1PXhq-FdNcyfeMiNp5zwlS3gf87GfNTHi/view) (potentially not updated)
