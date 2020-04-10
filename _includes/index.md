@@ -1,4 +1,4 @@
-## Sawasdee krub! Hello!
+## Hello!
 
 ![profile_pic](/assets/profile_image2.jpg)
 
