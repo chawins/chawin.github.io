@@ -6,6 +6,7 @@ title: Publications
 Please visit my [Google Scholar](https://scholar.google.com/citations?hl=en&authuser=1&user=AxUAEQ4AAAAJ) for the updated list.
 
 ## Adversarial Examples
+- _C. Sitawarin_, E. M. Kornaropoulos, D. Song, and D. Wagner, **Adversarial Examples for k-Nearest Neighbor Classifiers Based on Higher-Order Voronoi Diagrams,** under review. [[paper]](https://arxiv.org/abs/2011.09719)
 - _C. Sitawarin_, S. Chakraborty, and D. Wagner, **Improving Adversarial Robustness Through Progressive Hardening,** under review. [[paper]](https://arxiv.org/abs/2003.09347)
 - _C. Sitawarin_, and D. Wagner, **Minimum-Norm Adversarial Examples on KNN and KNN-Based Models,** Deep Learning and Security Workshop 2020 (co-located with IEEE S&P). [[paper]](https://arxiv.org/abs/2003.06559) [[code]](https://github.com/chawins/knn-defense)
 - _C. Sitawarin_, and D. Wagner, **Defending Against Adversarial Examples with K-Nearest Neighbor,** 2019 (deprecated). [[paper]](https://arxiv.org/abs/1906.09525) [[code]](https://github.com/chawins/knn-defense) (We took the paper down from arXiv because the defense is broken by our new attack above. The paper is still available is [here](https://drive.google.com/file/d/1_3SjKi92mfCRAg99EXEJXpOpGCCw2OXN/view?usp=sharing).)

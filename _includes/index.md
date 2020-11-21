@@ -1,8 +1,8 @@
 ## Hello!
 
-![profile_pic](/assets/profile_image2.jpg)
+![profile_pic](/assets/profile_image3.JPG)
 
-My name is Chawin Sitawarin. I am a second-year PhD student in Computer Science at UC Berkeley. I am in the security group and advised by [Prof. David Wagner](https://people.eecs.berkeley.edu/~daw/).
+My name is Chawin Sitawarin. I am a PhD student in Computer Science at UC Berkeley. I am in the security group and advised by [Prof. David Wagner](https://people.eecs.berkeley.edu/~daw/).
 
 I am broadly interested in the intersection between machine learning and computer security (because when you add an adversary, things become more challenging and fun). Most of my current and previous works are in the domain of adversarial machine learning, particularly adversarial examples and robustness of machine learning algorithms.
 
