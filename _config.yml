@@ -6,8 +6,8 @@ highlighter:      rouge
 permalink:        pretty
 
 # Setup
-title:            Chawin's Homepage
-description:      Homepage of Chawin Sitawarin
+title:            Chawin Sitawarin
+description:      My Homepage
 url:              https://chawins.github.io
 baseurl:          /
 
