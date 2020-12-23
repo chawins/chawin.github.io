@@ -1,4 +1,4 @@
-![profile_pic](/assets/profile_image.jpeg)
+![profile_pic](/assets/profile_image.png)
 
 Hello! My name is Chawin Sitawarin. I am a PhD student in Computer Science at UC Berkeley. I am in the security group and advised by [Prof. David Wagner](https://people.eecs.berkeley.edu/~daw/).
 
