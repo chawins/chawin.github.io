@@ -11,7 +11,7 @@ Previously, I graduated from Princeton University in 2018 where I was very fortu
 - Email: chawins@eecs.berkeley.edu
 - [Google Scholar](https://scholar.google.com/citations?hl=en&authuser=1&user=AxUAEQ4AAAAJ)
 - [Github](https://github.com/chawins)
-- [Resume](https://drive.google.com/file/d/1PXhq-FdNcyfeMiNp5zwlS3gf87GfNTHi/view) (potentially not updated)
+- [Resume](/assets/Chawin_Sitawarin_CV.pdf) (potentially not updated)
 - [LinkedIn](https://www.linkedin.com/in/chawins/)
 - Office: Room 721 Soda Hall, UC Berkeley, Berkeley, CA 94709
 
