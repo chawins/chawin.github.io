@@ -17,5 +17,6 @@ Previously, I graduated from Princeton University in 2018 where I was very fortu
 
 ### News
 
+- My project was awarded a grant from Center for Long-Term Cybersecurity (CLTC) for 2021.
 - I interned at IBM Research (Yorktown Heights, NY) over the summer of 2019.
 - I kept track and wrote summary of papers on adversarial examples, but I stopped after the number of papers has become overwhelming. I can no longer keep track of a list that is representative of the whole area. You can still find the list at [link](https://github.com/chawins/Adversarial-Examples-Reading-List) (last updated: Sep, 2019).
