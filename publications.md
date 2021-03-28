@@ -7,6 +7,7 @@ Please visit my [Google Scholar](https://scholar.google.com/citations?hl=en&auth
 
 ## Adversarial Examples
 
+- A. Sridhar, _C. Sitawarin_, D. Wagner, **Mitigating Adversarial Training Instability with Batch Normalization,** ICLR 2021 Workshop on Security and Safety in Machine Learning Systems.
 - _C. Sitawarin_, E. M. Kornaropoulos, D. Song, and D. Wagner, **Adversarial Examples for k-Nearest Neighbor Classifiers Based on Higher-Order Voronoi Diagrams,** under review. [[paper]](https://arxiv.org/abs/2011.09719)
 - _C. Sitawarin_, S. Chakraborty, and D. Wagner, **Improving Adversarial Robustness Through Progressive Hardening,** under review. [[paper]](https://arxiv.org/abs/2003.09347)
 - _C. Sitawarin_, and D. Wagner, **Minimum-Norm Adversarial Examples on KNN and KNN-Based Models,** Deep Learning and Security Workshop 2020 (co-located with IEEE S&P). [[paper]](https://arxiv.org/abs/2003.06559) [[code]](https://github.com/chawins/knn-defense)
