@@ -1,7 +1,7 @@
 <!-- ![profile_pic](/assets/profile_image.png) -->
 <img src="/assets/profile_image.png" width="200">
 
-Hello! My name is Chawin Sitawarin. I'm a PhD student in Computer Science at UC Berkeley where I'm part of [the security group](https://security.cs.berkeley.edu/) and [Berkeley DeepDrive (BDD)](https://bdd-data.berkeley.edu/). I'm advised by [Prof. David Wagner](https://people.eecs.berkeley.edu/~daw/).
+Hello! My name is Chawin Sitawarin. I'm a PhD student in Computer Science at UC Berkeley where I'm part of [the security group](https://security.cs.berkeley.edu/), [Berkeley Artificial Intelligence Research (BAIR)](https://bair.berkeley.edu/) and [Berkeley DeepDrive (BDD)](https://bdd-data.berkeley.edu/). I'm advised by [Prof. David Wagner](https://people.eecs.berkeley.edu/~daw/).
 
 I am broadly interested in the intersection between machine learning and computer security. Most of my current and previous works are in the domain of adversarial machine learning, particularly adversarial examples and robustness of machine learning algorithms.
 
